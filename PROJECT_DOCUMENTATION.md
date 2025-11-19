@@ -16,7 +16,7 @@ The webpage includes a clear structure, headings, lists, and descriptive text to
 
 ## Member Contributions
 
-### ⭐ **Kamaldeep Kaur**
+### **Kamaldeep Kaur**
 - Created the **“What Is Photography?”** introduction section.
 - Established the initial structure using semantic HTML tags.
 - Ensured proper use of headings to maintain accessibility.
@@ -30,7 +30,10 @@ The webpage includes a clear structure, headings, lists, and descriptive text to
 
 ---
 
-
+### Harshdeep Singh:
+- Wrote the **“Getting Started with Photography”** section.
+- Improved the flow and tone of the overall webpage to sound more natural and human-written.
+- Helped unify headings, structure, and accessibility features across the page.
 
 ---
 
